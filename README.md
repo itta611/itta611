@@ -1,6 +1,6 @@
 <h2>Itta Funahashi</h2>
 
-<img src="https://github.com/itta611.png" width="200" align="right">
+<img src="https://github.com/itta611/itta611/blob/main/icon-with-dynamic-shadow.png?raw=true" width="280" align="right">
 <p>I'm a high school student who are intrested in web development.</p>
 
 <h3>X (Formerly Twitter)</h3>
